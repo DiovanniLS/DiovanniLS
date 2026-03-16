@@ -22,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=trello&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
